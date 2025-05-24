@@ -1,4 +1,4 @@
-name: roblox12
+name: robloxserver
 
 on:
   workflow_dispatch:
